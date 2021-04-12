@@ -24,9 +24,13 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          Contador: {this.state.contador}
+          <p>
+            Contador: 
+          </p>
           <button onClick={this.increment}>+</button>
+            {this.state.contador}
           <button onClick={this.decrement}>-</button>
+          <br/>
           <button onClick={this.clear}>Clear</button>
         </header>
       </div>
