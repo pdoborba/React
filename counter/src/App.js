@@ -25,7 +25,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <p>
-            Contador: 
+            Contador : 
           </p>
           <button onClick={this.increment}>+</button>
             {this.state.contador}
