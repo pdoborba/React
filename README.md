@@ -1,6 +1,3 @@
-## React
-Alguns projetos em React e Componentes.
-
 ## 1º Projeto: Contador.
 # Contém:
 - Botão + (Mais) p/ adicionar 1 (Um) ao número atual;
@@ -9,4 +6,4 @@ Alguns projetos em React e Componentes.
 
 ## Capturas de tela:
 
-<img src="https://ibb.co/0X0KXN8" alt="GitBank1" border="0">
+<img src="https://i.ibb.co/7z3Qzc8/projeto-contador.jpg" alt="projeto-contador" border="0">
