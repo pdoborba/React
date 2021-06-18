@@ -1,16 +1,14 @@
-# 1º Projeto: Contador.
+# 1º Projeto: Counter (Contador).
 ## Contém:
 - Botão + (Mais) p/ adicionar 1 (Um) ao número atual;
 - Botão - (Menos) p/ remover 1 (Um) ao número atual;
 - Botão Clear (Limpar) p/ remover qualquer número seja positivo ou negativo, deixando em seu estado de origem 0 (Zero).
 
-Link do projeto: https://github.com/pdoborba/React/tree/main/list-to-do
-
 ## Captura de tela:
 
 <img src="https://i.ibb.co/7z3Qzc8/projeto-contador.jpg" alt="project-contador" border="0">
 
-# 2º Projeto: Lista de Tarefas.
+# 2º Projeto: List To Do (Lista de Tarefas).
 ## Contém:
 - Barra para anotar as tarefas;
 - Botão para Adicionar(Mas pode usar a tecla entrer do teclado que a tarefa também é adcionada);
