@@ -24,7 +24,7 @@
 
 ## 3º Projeto: Pag React & React Hooks.
 ## Contém:
-- Usando React Router Dom;
+- React Router Dom;
 - Manipulação de estados com useState & useEffct;
 - Componentização para facilitar futuras atualizações no projeto;
 
