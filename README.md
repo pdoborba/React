@@ -4,6 +4,8 @@
 - Botão - (Menos) p/ remover 1 (Um) ao número atual;
 - Botão Clear (Limpar) p/ remover qualquer número seja positivo ou negativo, deixando em seu estado de origem 0 (Zero).
 
+Link do projeto: https://github.com/pdoborba/React/tree/main/list-to-do
+
 ## Captura de tela:
 
 <img src="https://i.ibb.co/7z3Qzc8/projeto-contador.jpg" alt="project-contador" border="0">
@@ -14,6 +16,8 @@
 - Botão para Adicionar(Mas pode usar a tecla entrer do teclado que a tarefa também é adcionada);
 - Botões de editar a tarefa e tambem excluir.
 - Foi utilizado componentes para salvar as tarefas no seu navegar podendo haver atualização da pagina sem a perda de itens adicionados.
+
+Link do projeto: https://github.com/pdoborba/React/tree/main/list-to-do
 
 ## Captura de tela:
 
