@@ -19,9 +19,6 @@
 
 <img src="https://i.ibb.co/wMBQbjB/Captura-de-Tela-2021-06-18-a-s-11-10-34.png" alt="project-list-to-do" border="0">
 
-# Projeto de um banco simples.
-- Usando: React c/ Hooks.
-
 ## 3º Projeto: Pag React & React Hooks.
 ## Contém:
 - React Router Dom;
