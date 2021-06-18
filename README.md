@@ -25,6 +25,8 @@
 - Manipulação de estados com useState & useEffect;
 - Componentização para facilitar futuras atualizações no projeto;
 
+## Capturas de telas:
+
 <img src="https://i.ibb.co/fn9Txbc/GitBank1.png" alt="GitBank1" border="0">
 <img src="https://i.ibb.co/N1RZPWb/GitBank2.png" alt="GitBank2" border="0">
 <img src="https://i.ibb.co/Wgh7wk3/GitBank3.png" alt="GitBank3" border="0">
