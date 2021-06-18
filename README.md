@@ -11,9 +11,9 @@
 # 2º Projeto: List To Do (Lista de Tarefas).
 ## Contém:
 - Barra para anotar as tarefas;
-- Botão para Adicionar(Mas pode usar a tecla entrer do teclado que a tarefa também é adcionada);
+- Botão para Adicionar (Mas pode usar a tecla enter do teclado que a tarefa também é adicionada);
 - Botões de editar a tarefa e tambem excluir.
-- Foi utilizado componentes para salvar as tarefas no seu navegar podendo haver atualização da pagina sem a perda de itens adicionados.
+- Foi utilizado componentes para salvar as tarefas no seu navegar podendo haver atualização da pagina sem a perda de itens adicionados ou removidos.
 
 ## Captura de tela:
 
