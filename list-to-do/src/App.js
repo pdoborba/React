@@ -1,30 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './App.css';
-import Tasks from './components/Tasks';
+import Main from './components/Main';
 
-const App = () => {
-  
-  const [tasks, setTesks] = useState([
-    {
-      id: '1',
-      title: 'Estudar Programação',
-      completed: false
-    },{
-      id: '2',
-      title: 'Ler livro',
-      completed: true,
-    }
-  ]);
-  
-  setTesks([])
-
+export default function App() {
   return (
-    <>
-      <div className="container">
-      <Tasks tasks={tasks}/>
-      </div>
-    </>
+    <div>
+      <Main />
+    </div>
   );
 }
-
-export default App;
