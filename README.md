@@ -15,8 +15,6 @@
 - Botões de editar a tarefa e tambem excluir.
 - Foi utilizado componentes para salvar as tarefas no seu navegar podendo haver atualização da pagina sem a perda de itens adicionados.
 
-Link do projeto: https://github.com/pdoborba/React/tree/main/list-to-do
-
 ## Captura de tela:
 
 <img src="https://i.ibb.co/wMBQbjB/Captura-de-Tela-2021-06-18-a-s-11-10-34.png" alt="project-list-to-do" border="0">
