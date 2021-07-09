@@ -1,10 +1,12 @@
-## 3º Projeto: Pag App Web de Filmes.
+## 4º Projeto: Pag App Web de Filmes.
 ## Contém:
 - Requisições da API;
 - Manipulação de estados com useState & useEffect;
 - Componentização para facilitar futuras atualizações no projeto;
+- Slide de imagens nas lista de filmes;
 - Projeto 100% Responsivo.
 
 ## Capturas de telas:
 
 <img src="https://i.ibb.co/LvGghWn/localhost-3000-2.png" alt="localhost-3000-2" border="0">
+
