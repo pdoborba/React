@@ -2,6 +2,8 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -22,17 +24,4 @@ footer {
 
 footer span{
     color: red;
-}
-
-.loading{
-  position:absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  z-index: 999;
-  background-color: #141414;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
